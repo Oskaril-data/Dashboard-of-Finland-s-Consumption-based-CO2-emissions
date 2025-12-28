@@ -3,6 +3,9 @@
 
 An interactive Excel-based analytical tool designed to visualize Finland's **Consumption-Based Emissions (CBE)** and simulate the impact of environmental policies on achieving a sustainable carbon footprint.
 
+<img width="971" height="937" alt="kuva" src="https://github.com/user-attachments/assets/e420168a-96ab-4d1f-8af4-51f2c65508a9" />
+
+
 ---
 
 ## 📊 Project Overview
