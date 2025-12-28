@@ -11,7 +11,7 @@ This dashboard allows users to step into "Dictator Mode" to influence Finland's 
 ---
 
 ## 🚀 Key Features
-* **Interactive Policy Simulator:** Toggle real-world policies (e.g., dietary shifts, aviation taxes) using Excel Form Controls.
+* **Interactive Policy Simulator:** Toggle real-world policies (e.g., dietary shifts) using Excel Form Controls.
 * **Dynamic Goal Tracking:** Real-time feedback on how close your policies bring Finland to the "Sustainability Target."
 * **Integrated Carbon Sinks:** Accounts for LULUCF (Land Use, Land-Use Change, and Forestry) data to show the true net impact.
 
@@ -36,8 +36,8 @@ This dashboard allows users to step into "Dictator Mode" to influence Finland's 
 ## 🕹️ "Dictator Mode" Policies
 The simulation includes several key levers:
 * **Aviation Reform:** Captures international flight emissions, which are often "hidden" in standard national reports.
-* **Dietary Shift & Reforestation:** Simulates a move to plant-based diets. The model assumes that liberated agricultural land is **reforested**, increasing carbon sequestration over time.
-* **Energy & Transport:** Accelerating the electrification of the private car fleet.
+* **Dietary Shift:** Simulates a move to plant-based diets. The model assumes that liberated agricultural land is **reforested**, increasing carbon sequestration over time.
+* **Energy & Transport:** Accelerating the electrification of traffic and shifting to public transport.
 
 > **Note:** Policy impact coefficients are coarse estimates based on environmental reports (SYKE/Luke) and are intended for illustrative proof-of-concept purposes.
 
@@ -60,4 +60,4 @@ The simulation includes several key levers:
 
 ---
 
-*This project was developed as a rapid prototype to demonstrate advanced data manipulation and visualization capabilities in Excel.*
+*This project was developed as a rapid prototype to demonstrate advanced data manipulation and visualization capabilities in Excel. This readme.md is made with AI, fact checked by Oskari*
